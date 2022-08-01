@@ -13,8 +13,7 @@
   
 
 [![profile](https://github-profile-trophy.vercel.app/?username=Sanandaaaa24&theme=algolia&column=8)(https://githubprofiletrophy.vercel.app/username=Sanandaaaa24&theme=algolia&column=8)
-
-[![snake](./assets/github-contribution-grid-snake.svg)(https://raw.githubusercontent.com/Sanandaaaa24/Sanandaaaa24/master/assets/githubcontributiongridsnake.svg)
+[[snake(./assets/githubcontributiongridsnake.svg(https://raw.githubusercontent.com/Sanandaaaa24/Sanandaaaa24/master/assets/githubcontributiongridsnake.svg)
   
   
 [![github-active](./profile-3d-contrib/profile-night-rainbow.svg)]
