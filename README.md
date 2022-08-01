@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+[![](https://activity-graph.herokuapp.com/graph?username=Sanandaaaa24&theme=github)](https://activity-graph.herokuapp.com/graph?username=eryajf&theme=github)
+
 <!---
 Sanandaaaa24/Sanandaaaa24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
