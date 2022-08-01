@@ -16,8 +16,7 @@
 [[snake(./assets/githubcontributiongridsnake.svg(https://raw.githubusercontent.com/Sanandaaaa24/Sanandaaaa24/master/assets/githubcontributiongridsnake.svg)
   
   
-[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)]
-  (https://raw.githubusercontent.com/Sanandaaaa24/Sanandaaaa24/master/profile-3d-contrib/profile-night-rainbow.svg)
+[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/Sanandaaaa24/Sanandaaaa24/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 [![](https://activity-graph.herokuapp.com/graph?username=eryajf&theme=github)](https://activity-graph.herokuapp.com/graph?username=eryajf&theme=github)
 
